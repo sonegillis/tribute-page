@@ -1,0 +1,48 @@
+body {
+  font-family: monospace;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  background-color: rgba(0, 255, 0, 0.4);
+  padding: 20px 0;
+}
+
+#img-div {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#image {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin: 0 auto;
+}
+
+figcaption {
+  text-align: center;
+  padding-top: 15px;
+}
+
+#tribute-info {
+  margin-top: 20px;
+  font-family: cursive;
+  background-color: rgba(0, 255, 0, 0.4);
+  text-align: center;
+}
+
+#timeline {
+  width: 500px;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+#more-tribute-info {
+  font-weight: bold;
+  font-size: 20px;
+}
